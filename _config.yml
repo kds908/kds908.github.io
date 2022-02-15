@@ -6,7 +6,7 @@
 title: Abner S.
 subtitle: '(ง •̀_•́)ง'
 description: '学习笔记'
-keywords: 'Java'
+keywords: 'Java后端'
 author: Abner S.
 language: zh-CN
 timezone: ''
@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: 'git'
   repo: "https://github.com/kds908/kds908.github.io.git"
-  branch: "hexo"
+  branch: "main"
