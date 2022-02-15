@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: 'git'
   repo: "https://github.com/kds908/kds908.github.io.git"
-  branch: "main"
+  branch: "hexo"
