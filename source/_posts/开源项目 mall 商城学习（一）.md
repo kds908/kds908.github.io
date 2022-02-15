@@ -15,11 +15,11 @@ tags: mall 商城
 
 **根据自己学习情况作出整理：**
 
-![](../imgs/gongneng.jpg)
+![](/imgs/gongneng.jpg)
 
 ## 系统架构图
 
-![](../imgs/861644831979.jpg)
+![](/imgs/861644831979.jpg)
 
 
 
