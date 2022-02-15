@@ -6,7 +6,7 @@ type: about
 
 
 
-学习永无止境、宜早不宜迟！
+一只立志要成为架构师的菜鸡程序员！
 
 
-![Image text](../imgs/diaoyu1.jpeg)
+![Image text](../imgs/taejune-kim-blue-1600.jpg)
